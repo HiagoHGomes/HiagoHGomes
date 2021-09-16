@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HiagoHGomes
+- 👋 Hi, I’m Hiago H. Gomes
 - 👀 I’m interested in html, css and javascript
 - 🌱 I’m currently learning front-end progaming
 - 💞️ I’m looking to collaborate on anything
