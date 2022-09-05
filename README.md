@@ -49,7 +49,7 @@ Trying to find your first job as a front-end developer.
   </a>
  </p>
 
-![Snake animation](https://github.com/HiagoHGomes/HiagoHGomes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HiagoHGomes/HiagoHGomes/blob/output/github-contribution-grid-snake.svg)
  
  
  
