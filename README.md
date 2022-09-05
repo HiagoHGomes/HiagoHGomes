@@ -1,10 +1,43 @@
-- 👋 Hi, I’m Hiago H. Gomes
-- 👀 I’m interested in html, css and javascript
-- 🌱 I’m currently learning front-end progaming
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me https://www.linkedin.com/in/hiago-henrique-gomes-a955a6188/
+## Hello, everyone! Hiago Henrique here
+### Hey devs 👋
+##  More about me:
 
-<!---
-HiagoHGomes/HiagoHGomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" width="300" padding src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```
+
+Computer engineering student. 
+Trying to find your first job as a front-end developer.
+
+
+```
+
+
+## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## **Github Statistics:**
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoHGomes&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=HiagoHGomes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## **How to reach me:**
+<p align="left">
+  
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-gomes-a955a6188/" /></a>
+  
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Hiago.Henrique.Gomes/"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_hiagod/"/></a>
+</p>  
+
+## **Let's play together?**
+ <p align="left">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white&link="https://account.xbox.com/pt-BR/Profile?xr=mebarnav/>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198094007541/"/>
+ </p>
