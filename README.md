@@ -19,10 +19,13 @@ Trying to find your first job as a front-end developer.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-## **Github Statistics:**
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoHGomes&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=HiagoHGomes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## **Github Statistics:**
+<div align="center">
+  <a href="https://github.com/HiagoHGomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoHGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoHGomes&layout=compact&langs_count=7&theme=dark"/>
+</div>
 ## **How to reach me:**
 <p align="left">
   
@@ -45,3 +48,8 @@ Trying to find your first job as a front-end developer.
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
  </p>
+
+![Snake animation](https://github.com/HiagoHGomes/HiagoHGomes/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
+ 
