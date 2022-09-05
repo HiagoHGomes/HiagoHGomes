@@ -26,18 +26,22 @@ Trying to find your first job as a front-end developer.
 ## **How to reach me:**
 <p align="left">
   
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-henrique-gomes-a955a6188/" /></a>
+  <a href="https://www.linkedin.com/in/hiago-henrique-gomes-a955a6188/" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Hiago.Henrique.Gomes/"/></a>
+  <a href="//www.facebook.com/Hiago.Henrique.Gomes/" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_hiagod/"/></a>
+  <a href="https://www.instagram.com/_hiagod/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 </p>  
 
 ## **Let's play together?**
  <p align="left">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white&link="https://account.xbox.com/pt-BR/Profile?xr=mebarnav/>
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198094007541/"/>
+   <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" target="_blank">
+     <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
+   </a>
+  <a href="https://steamcommunity.com/profiles   /76561198094007541/" target"_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
  </p>
