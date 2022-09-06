@@ -26,7 +26,9 @@ Trying to get my first job as a front-end developer.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiagoHGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoHGomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 ## **How to reach me:**
+
 <p align="left">
   
   <a href="https://www.linkedin.com/in/hiago-henrique-gomes-a955a6188/" target="_blank">
