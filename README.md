@@ -7,7 +7,7 @@
 ```
 
 Computer engineering student. 
-Trying to find your first job as a front-end developer.
+Trying to get my first job as a front-end developer.
 
 
 ```
