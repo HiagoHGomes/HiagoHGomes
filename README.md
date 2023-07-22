@@ -2,6 +2,10 @@
 ### Hey devs 👋
 ##  More about me:
 
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-lac-one.vercel.app//api?theme=dark&scan=true" alt="Current Spotify Song">
+</a>
+
 <img align="right" width="300" padding src="images/internet-south-park.gif" />
 
 ```
